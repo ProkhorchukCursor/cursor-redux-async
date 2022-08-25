@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/cursor-redux-async/static/js/main.94941870.js",
+    "main.js": "/cursor-redux-async/static/js/main.7bbd5edf.js",
     "static/media/city.jpg": "/cursor-redux-async/static/media/city.d02e82c313b1c8ff8b07.jpg",
     "index.html": "/cursor-redux-async/index.html",
-    "main.94941870.js.map": "/cursor-redux-async/static/js/main.94941870.js.map"
+    "main.7bbd5edf.js.map": "/cursor-redux-async/static/js/main.7bbd5edf.js.map"
   },
   "entrypoints": [
-    "static/js/main.94941870.js"
+    "static/js/main.7bbd5edf.js"
   ]
 }
